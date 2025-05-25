@@ -1,0 +1,21 @@
+---
+title: "Assignment_AnalyticProgramming"
+author: "MatthewN"
+date: "2025-05-23"
+output:
+  pdf_document: default
+  word_document: default
+---
+
+Student Surname: Putra
+Student Firstname: Matthew
+Student ID: 22176294
+Unit Name: Analytics Programming
+Unit Number: COMP1013
+
+**Introduction**
+This assignment involves analyzing a large dataset from an e-commerce platform from Brazil to gain insights into customer behavior, product trends, delivery performance, and payment patterns. Using R programming, various data files containing customer, order, product, payment, seller, and location information will be explored and combined. The objective is to understand how customers are distributed geographically, which products are most popular, how delivery times vary, and the preferred payment methods.
+
+
+
+
